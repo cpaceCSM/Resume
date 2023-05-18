@@ -1,0 +1,30 @@
+.profile-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 70%;
+    object-fit: cover;
+  }
+  a:link {
+    color: rgba(68, 17, 17, 0.598);
+  }
+  
+  /* visited link */
+  a:visited {
+    color:rgba(42, 11, 11, 0.598);
+  }
+  body {
+    background-color: rgb(215, 182, 170);
+  }
+  .card {
+    background-blend-mode: normal;
+  }
+  .img {
+    width: 200px;
+    height: 200px;
+  }
+  
+  
+  
+  
+  
+  
