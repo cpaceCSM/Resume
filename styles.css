@@ -22,9 +22,37 @@
     width: 200px;
     height: 200px;
   }
+  #projects {
+    background-color: rgb(234, 221, 216);
+    border-style: solid;
+    border-color: rgba(68, 17, 17, 0.598);
+    padding: 50px;
+  }
+  .card {
+    border-color: rgb(166, 117, 54);
+  }
+  .btn {
+    background-color: rgb(141, 116, 108);
+    border: rgb(189, 157, 146);
+  }
+  .card-body {
+    background-color:rgb(234, 221, 216);
+  }
+  .navbar {
+    background-color:  rgba(122, 80, 80, 0.598);
+    width: 100%;
+  }
+  .headerbar {
+    background-color: rgb(234, 221, 216);
+    font-weight: bolder;
+    color: rgba(33, 8, 8, 0.598);
+  }
   
-  
-  
-  
+  p {
+    font-size: larger;
+  }
+  strong {
+    font-size: large;
+  }
   
   
