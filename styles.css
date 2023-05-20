@@ -47,6 +47,10 @@
     padding: 0%;
     margin: 0%;
   }
+  .navbar-brand {
+    text-size-adjust: auto;
+    font-size: xx-large;
+  }
   .headerbar {
     background-color: rgb(234, 221, 216);
     font-weight: bolder;
