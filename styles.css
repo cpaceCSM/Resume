@@ -3,6 +3,9 @@
     height: 200px;
     border-radius: 70%;
     object-fit: cover;
+    margin-left: 5%;
+    margin-top: 3%;
+    padding: 2%;
   }
   a:link {
     color: rgba(68, 17, 17, 0.598);
@@ -41,6 +44,8 @@
   .navbar {
     background-color:  rgba(122, 80, 80, 0.598);
     width: 100%;
+    padding: 0%;
+    margin: 0%;
   }
   .headerbar {
     background-color: rgb(234, 221, 216);
