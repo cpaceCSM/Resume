@@ -51,6 +51,10 @@
     text-size-adjust: auto;
     font-size: xx-large;
   }
+  @media (max-width:991px) {.remove-wrap {
+      white-space: normal;
+    }
+  }
   .headerbar {
     background-color: rgb(234, 221, 216);
     font-weight: bolder;
